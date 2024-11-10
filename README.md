@@ -1,2 +1,3 @@
 # my-journey
-This is my first journey
+This is my first repository journey
+Autor-RUDRA
